@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://herokang.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+title: 殷康的博客
+subtitle: 善者不辩.
+author: 殷康
+simple_search: https://www.baidu.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: herokang
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
